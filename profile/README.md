@@ -2,7 +2,7 @@
 
 At [Bolt Labs](https://boltlabs.tech), our mission is to build usable, secure, and scalable infrastructure to enable everyone to securely store their assets while preserving the privacy of their transactions.
 
-To achieve this mission, we are building [Lock Keeper](https://github.com/boltlabs-inc/key-mgmt): a secure digital asset manager and specialized key management system that helps people store, retrieve, and use the private keys associated with their digital assets. We’re building a security-first system with layers of cryptography, hardware protection, and misuse-resistant design.
+To achieve this mission, we are building [Lock-Keeper](https://github.com/boltlabs-inc/key-mgmt): a secure digital asset manager and specialized key management system that helps people store, retrieve, and use the private keys associated with their digital assets. We’re building a security-first system with layers of cryptography, hardware protection, and a misuse-resistant design.
 
 Our products build on the following open-source repositories:
 * [Key Management Specification for Lock Keeper](https://github.com/boltlabs-inc/key-mgmt-spec)
@@ -13,15 +13,3 @@ Our products build on the following open-source repositories:
 
 * [zeekoe - L2 Node for zkChannels](https://github.com/boltlabs-inc/zeekoe)
 * [multi-sig smart contract for Tezos compatible with zkChannels](https://github.com/boltlabs-inc/tezos-contract)
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
